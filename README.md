@@ -11,5 +11,7 @@ Python(Numpy, Pandas, Matplotlib, Seaborn)
 - Online order has received the more Rating as Compare to ofline Orders
 - Dining restaurant primarily accepts offline orders whereas Cafes primarily accepts online orders. this suggest that prefer to place order in person at the restaurant but Prefer online orders at cafes
 
+## Google Colab Notebook
+📂 [Google Colab Notebook](notebook/google_colab_link.md)
 
 
